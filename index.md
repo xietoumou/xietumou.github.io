@@ -1,15 +1,15 @@
 # 致李建裕老师 
 ---
-layout: null  # 禁用 Jekyll 默认布局
+
 ---
 
 <style>
 /* ===== 全局样式 ===== */
 :root {
-  --primary: #2c3e50;        /* 深蓝主色 */
-  --accent: #e74c3c;         /* 强调红色 */
-  --light: #ecf0f1;          /* 浅背景 */
-  --gold: #f1c40f;           /* 金色装饰 */
+  --primary: #2c3e50;        
+  --accent: #e74c3c;         
+  --light: #ecf0f1;         
+  --gold: #f1c40f;          
 }
 
 * {
@@ -194,19 +194,19 @@ body {
   
   <!-- 信头 -->
   <div class="letter-header">
-    <h1>敬爱的王明华老师</h1>
-    <div class="letter-subtitle">高三(1)班全体同学的感恩信</div>
+    <h1>敬爱的李建裕老师</h1>
+    <div class="letter-subtitle">计算机网络技术22113班学生留</div>
   </div>
   
   <!-- 信件内容 -->
   <div class="letter-content">
-    <p>时光荏苒，转眼间我们班的旅程即将抵达终点。<span class="highlight"></span>。</p>
+    <p>测试<span class="highlight"></span>。</p>
 
   </div>
   
   <!-- 落款 -->
   <div class="letter-signature">
     <div class="signature-name">22113</div>
-    <div class="signature-date">2025年6月20日</div>
+    <div class="signature-date">2025年6月25日</div>
   </div>
 </div>
